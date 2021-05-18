@@ -1,0 +1,14 @@
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.exe.config
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.exe
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.pdb
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.exe
+C:\Users\Owner\Documents\THE GARAGE\Personal Projects\C# Final Project\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.pdb
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.exe.config
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.exe
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\bin\Debug\ASCII_PACMAN.pdb
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.csprojResolveAssemblyReference.cache
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.exe
+C:\Users\sean_\Desktop\C# Projects\ASCII_PACMAN\ASCII_PACMAN\obj\Debug\ASCII_PACMAN.pdb
